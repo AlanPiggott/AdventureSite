@@ -3,6 +3,8 @@ A mock website of an adventure website
 
 I built this website using HTML, CSS AND Bootstrap 4. 
 
+You can view live site here: https://alanpiggott.github.io/AdventureSite/
+
 What I learned:
 Creating this website thought me a lot about reading documentation and the Bootstrap framework. I learned how to position elements
 while maintaining a responsive design on all platforms.
